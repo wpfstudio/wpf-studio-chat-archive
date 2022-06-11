@@ -1361,10 +1361,10 @@ setelah itu jalanin npm run watch
 2022.04.24 Sunday
 00:04 kurnia amerta Photos
 02:14 kurnia amerta add to database:
-password: $2y$10$4NcuIeOFxQw4.bnWE0xcN.FF/BLKsgAAoBMXKisQ.QESYYo.2qak.
+password: ************************************************************
 
 add to http://127.0.0.1:8000/administrator/home
-password: 12345678
+password: ********
 04:33 Fathiyarizq Mahendra Haik 
 04:33 kurnia amerta selamat sahur hen
 04:36 kurnia amerta Sorry data is not available. We're trying to find it
@@ -1670,3 +1670,81 @@ xxx
 19:27 Fathiyarizq Mahendra Mas peg & mas war untuk gaji bulan ini si Widi belum ada.. Nanti di trf dulu ke wardana 
 19:27 Fathiyarizq Mahendra Sama wardana maksudnya
 19:39 kurnia amerta okee mas
+2022.06.05 Sunday
+21:53 kurnia amerta apa jadi diskusinya?
+22:03 Fathiyarizq Mahendra Sini
+2022.06.06 Monday
+17:08 Fathiyarizq Mahendra https://indonesianwriter.com/harga-artikel-500-murah-berkualitas/
+17:09 Fathiyarizq Mahendra https://mediapenulis.id/jasa-penulis-artikel-seo-murah-terbaik/#harga
+2022.06.07 Tuesday
+23:46 Fathiyarizq Mahendra https://www.tokopedia.com/wpplugins/wpml-multilingual-cms-lifetime-update-100-lisensi-asli?extParam=ivf%3Dfalse%26src%3Dsearch
+
+referensi buat webnya infien biar gak loncat loncat bahasanya
+23:55 Fathiyarizq Mahendra ini project dari klien seo nya ges : infienenergy.com
+
+masalah di website nya :
+- banyak item lorem ipsum & dummy
+- belum ada plugin seo / belum disetting di webnya
+- webnya inkonsisten bahasa, solusi bisa beli lisensi disini agar lebih murah. karena bahasa berpengaruh sama seo kalau inkosisten pelanggan dari luar bingung sama webnya : https://www.tokopedia.com/wpplugins/wpml-multilingual-cms-lifetime-update-100-lisensi-asli?extParam=ivf%3Dfalse%26src%3Dsearch
+
+- untuk dongkrak seo bisa perkaya konten dan update beberapa pagenya
+- web nya kurang optimisasi (bisa pakai beberapa plugin)
+
+sebagai perbandingan bisa cek :
+https://www.atw-solar.id/
+https://www.baran-energy.com/
+https://www.sunterra.id/
+
+untuk cek seo structure dan performa bisa pakai 
+https://seocheki.net/
+web.dev/measure/
+https://seositecheckup.com/analysis
+2022.06.08 Wednesday
+10:15 kurnia amerta okee, nanti aku cari lorem ipsumnya dimana aja
+10:16 Fathiyarizq Mahendra Tadi malem sempet cek performa web klien aja.. Kalau kompetitor belum.. Mungkin bisa di cek gess sebagai bahan acuan
+2022.06.10 Friday
+18:15 kurnia amerta kapan rapat sama client hen?
+18:17 Fathiyarizq Mahendra Belum ku set tgl nya gara gara galungan gik (soalnya aku kerja).. Biar lebih enak sama jualnya lebih mahal cek web yang datanya dummy dulu ya aku masih nunggu harga artikel yang cocok dulu (maunya ambil luar tapi kita yang pesen) 
+18:17 Fathiyarizq Mahendra Ku minta datanya minggu bisa? 
+18:18 kurnia amerta bisa hen
+18:18 kurnia amerta pake jira yuk?
+18:19 Fathiyarizq Mahendra Bayar kah? 
+18:19 kurnia amerta gratis 10 user, limitnya 2gb
+20:04 kurnia amerta Photos
+20:04 kurnia amerta aku buat dalam bentuk apa hen?
+20:04 kurnia amerta aku kasi ss juga?
+20:04 kurnia amerta @Fathiyarizq Mahendra 
+20:05 Fathiyarizq Mahendra Kasih link nya aja gik nanti ku akses
+20:05 kurnia amerta infien energy.xlsx
+20:05 kurnia amerta ini hen
+20:06 Fathiyarizq Mahendra Sip Kak pegi
+20:06 Fathiyarizq Mahendra Gak les gik? 
+20:06 kurnia amerta okee, ada kerjaan lagi?
+20:06 kurnia amerta ga hen, tangkas ga bisa
+20:06 Fathiyarizq Mahendra Lesku jquery nya gik 
+20:06 kurnia amerta bisa meet hen?
+20:06 Fathiyarizq Mahendra Iya lagi healing tak lolos keknya 
+20:06 Fathiyarizq Mahendra Bisa nanti gik jam 9 mau maem dulu
+20:06 kurnia amerta lolos dia
+20:06 kurnia amerta aku yg ga lolos
+20:07 Fathiyarizq Mahendra Ggwp
+20:07 kurnia amerta okee
+20:07 Fathiyarizq Mahendra Besok besok kirim background kamarmu gik isiin poster
+20:08 Fathiyarizq Mahendra Auto lolos dah
+21:58 kurnia amerta sirry hen, ketiduran aku
+21:58 Fathiyarizq Mahendra Yuk 
+21:59 kurnia amerta ada meet di tempat lain aku, nanti aki cari sendiri
+21:59 Fathiyarizq Mahendra cieeeh
+21:59 Fathiyarizq Mahendra sama widi ?
+22:00 kurnia amerta sama tangkas
+22:00 Fathiyarizq Mahendra left aja
+22:00 Fathiyarizq Mahendra tak kasih bokep
+22:01 kurnia amerta hmm, sorry hen, entar aku cari sendiri
+22:01 Fathiyarizq Mahendra yaaah kok gitu ? 
+
+aku nangis nih
+22:03 kurnia amerta aku ada meet hen
+22:03 Fathiyarizq Mahendra iya deh sayang nanti chat kamu kalau masih bingung ya 
+
+22:03 Fathiyarizq Mahendra Stickers
+22:03 kurnia amerta okee hen
